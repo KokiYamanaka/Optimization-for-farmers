@@ -4,3 +4,6 @@ This is a mathematical optimization project to maximize a farmer’s profit with
 The report file contains detailed description, analysis, linear programming formulation of the problem.
 The xlsx file contains the found optimal solution for the farmer.
 Project rubric contains feedback from the professor for the project
+
+Some process 
+![image](https://user-images.githubusercontent.com/107101940/235034126-2b34081e-90d4-4ee2-a827-1ae39bb98fc7.png)
