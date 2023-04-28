@@ -5,5 +5,3 @@ The report file contains detailed description, analysis, linear programming form
 The xlsx file contains the found optimal solution for the farmer.
 Project rubric contains feedback from the professor for the project
 
-Some process 
-![image](https://user-images.githubusercontent.com/107101940/235034126-2b34081e-90d4-4ee2-a827-1ae39bb98fc7.png)
